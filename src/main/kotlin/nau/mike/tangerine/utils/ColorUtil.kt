@@ -1,6 +1,6 @@
-package nau.mike.tangerine.nau.mike.tangerine.utils
+package nau.mike.tangerine.utils
 
-import nau.mike.tangerine.nau.mike.tangerine.isGLInitialized
+import nau.mike.tangerine.isGLInitialized
 import org.joml.Vector4f
 import org.lwjgl.opengl.GL11C.glClearColor
 import java.lang.Float.max
